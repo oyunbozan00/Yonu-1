@@ -1,6 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.yonus_flutter">
     <application
+        android:name="${Yonu-S}"
+
         android:label="Yonu-S"
         android:icon="@mipmap/ic_launcher">
         <activity
